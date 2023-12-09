@@ -14,7 +14,7 @@ let __Time = 20;
 let __k = 4;
 let _close = false;
 let _fsj = false;
-var url = 'https://yuxuanliuying.github.io/tbfsl.github.io//static/image/0127.png';
+var url = 'https://yuxuanliuying.github.io/tbfsl.github.io/static/image/0127.png';
 
 function isplaying() {
     return document.getElementById('welcome').style.display == 'none' &&
